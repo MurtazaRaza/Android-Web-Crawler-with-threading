@@ -8,6 +8,8 @@ Web crawlers are mainly used to create a copy of all the visited pages for later
 
 Crawlers can also be used for automating maintenance tasks on a Web site, such as checking links or validating HTML code.
 
+**NOTE** Not all files have been uploaded, just enough for the project to be recreated (Because of Github issues).
+
 
 References:
 www.androidsrc.net || 
