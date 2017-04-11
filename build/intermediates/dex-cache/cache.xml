@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\262f36b20b4190bde64ba00affd04fa38788770c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="D:\Android-Studio-projects\Webcrawler\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7cc212d7a18bfc05458024178cdd40fe04db3f45\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android-Studio-projects\Webcrawler\app\libs\jsoup-1.8.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d57e95c0f150b885ccdbda7a12bef353fd31d02">
+        <dex dex="D:\Android-Studio-projects\Webcrawler\app\build\intermediates\transforms\dex\debug\folders\1000\2\jsoup-1.8.1_f44f572a5ab2856af0afc6e601cb283276dcb3a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="D:\Android-Studio-projects\Webcrawler\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.2.0_42835a9238a22798450315ddcfa7042fe39d8af8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\23158dfdaba33eb894f159d098a8ac34b6593c08\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Android-Studio-projects\Webcrawler\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b5b85a9550d7d418c414189838bdd643e4cabfaf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\a92749558250c9013935aa14315443da16ec9180\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="D:\Android-Studio-projects\Webcrawler\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9e3e325bcd82687c0d395cfd6e2084559ea48218\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\a1e2e8c57328bd3f089648494d6f969908c577a4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="D:\Android-Studio-projects\Webcrawler\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ed77d0787279ae80754ebc94ba1218a4e01ed6a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\60ecd2787af87fad1dbb01581b214b05d18348e6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="D:\Android-Studio-projects\Webcrawler\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_277d070f5da670265c328d75ee4c7cf8eccf75f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android-Studio-projects\Webcrawler\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4f3b74cb8ae29b38b3cee156e2aad10de92741a4">
+        <dex dex="D:\Android-Studio-projects\Webcrawler\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_c8da495640d99e22e677c49e211b2a003f1efb34\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android-Studio-projects\Webcrawler\app\libs\apache-httpcomponents-httpcore.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="33fc26c02f8043ab0ede19eadc8c9885386b255c">
+        <dex dex="D:\Android-Studio-projects\Webcrawler\app\build\intermediates\transforms\dex\debug\folders\1000\2\apache-httpcomponents-httpcore_038f9ee869e4f4fedbec3c74086b938079c058c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\0e28070a9fc2152761e0c4f1ccaac44df13a1d47\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="D:\Android-Studio-projects\Webcrawler\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_afab748dc21c8a4871792bddcb2ab7af8516a42e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\0268a83600e0193f7d4b53abd7901330354b20f7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="D:\Android-Studio-projects\Webcrawler\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_53c9119ebcbaacd2e2271cc73fbe84ea9db3202f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\ac1916a0bf7c39e5353cc72d5fbaee68967346ed\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="D:\Android-Studio-projects\Webcrawler\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_21450402356c7432d10e7823a0399df6800cda6a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\3514e05ce15af15aa7d453ecee77ee567a84680a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\Android-Studio-projects\Webcrawler\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_64156f8ed2c7200ce6a638d55426b53f386546cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\2d803ada3b54ec6187a53bc54c48eb51f9b16df8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="D:\Android-Studio-projects\Webcrawler\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1868ac0a9241bc46135a9bdaaaffc2dcb0508d3f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\Android-Studio-projects\Webcrawler\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_765acbcefc1c012573eba0d025a56ceb36568ae2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android-Studio-projects\Webcrawler\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="D:\Android-Studio-projects\Webcrawler\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_ac5a851590af11af332a1d7b264abbd819c81114\classes.dex" />
+    </item>
+
+</items>
